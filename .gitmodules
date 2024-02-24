@@ -1,0 +1,3 @@
+[submodule "EphysTerminal"]
+	path = EphysTerminal
+	url = https://github.com/HaraldBarzan/EphysTerminal
